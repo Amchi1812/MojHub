@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+discord.py
+google
+google-api-python-client
+google-auth-oauthlib
+gspread
+python-dotenv
+
